@@ -11,5 +11,7 @@ In opencv the following steps are followed to detect and trace a ball:
 
 
 Uses of ball detection technique:
+
 1)used in sports such as cricket, football, tennis etc.
+
 2)used in target identification.
