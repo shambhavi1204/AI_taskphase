@@ -8,3 +8,8 @@ We can use segmentation by color meathod for the same purpose. In this we reduce
 In opencv the following steps are followed to detect and trace a ball:
 1)detect the presence of the ball
 2)track the ball as it moves around the video frame and drawing its previous position as it moves.
+
+
+Uses of ball detection technique:
+1)used in sports such as cricket, football, tennis etc.
+2)used in target identification.
