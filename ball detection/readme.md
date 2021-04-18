@@ -18,4 +18,4 @@ Uses of ball detection technique:
 
 2)used in target identification.
 
-https://github.com/shambhavi1204/AI_taskphase/blob/main/ball%20detection/561o02.gif
+![561o02](https://user-images.githubusercontent.com/75692297/115142544-f6ed0d80-a05f-11eb-80b8-798a3e3e168b.gif)
