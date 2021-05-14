@@ -49,5 +49,5 @@ The gradient ascent update equation becomes:
       Uses of logistic regression:
       used for weather forcast such as whether it is clound or ot will rain or not
       multiclass classification
-      medical use like diagnosis of various disease.
+      medical use like diagnosis of various disease
 
