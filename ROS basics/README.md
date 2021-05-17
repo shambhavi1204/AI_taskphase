@@ -12,3 +12,4 @@ Messages are routed from subscriber to publisher using topic. A publisher publis
 
 ![image](https://user-images.githubusercontent.com/75692297/118522380-9aae0400-b759-11eb-990d-512943b7a7ef.png)
 
+A node offers service under name and a client uses this service to make request and wait for the reply .It is composed of a pair of message structure, one for the request and one for the reply.
