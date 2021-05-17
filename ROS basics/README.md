@@ -9,3 +9,6 @@ Nodes communicate with each other using messages. It supports standard primitive
 Messages are routed from subscriber to publisher using topic. A publisher publish the message on a given topic. A topic is a name which is used to identify the content of the name.A node intrested in a certain kind of topic will subscribe to it.In simple word the publisher and subscriber is not aware of each other existance and communicate through topic .A particular subscriber and publisher can subscibe and publish to more than one topic at a time.
 
 
+
+![image](https://user-images.githubusercontent.com/75692297/118522380-9aae0400-b759-11eb-990d-512943b7a7ef.png)
+
